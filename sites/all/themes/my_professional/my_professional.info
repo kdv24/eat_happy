@@ -1,0 +1,6 @@
+name = My Professional
+description = My subtheme of Professional
+core = 7.x
+base theme = professional
+stylesheets[all][] = style.css
+stylesheets[all][] = my_professional.css

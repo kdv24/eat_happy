@@ -1,0 +1,44 @@
+
+#wrapper {
+    font-family: 'Quicksand', sans-serif;
+    background: #FFFFF6;
+    background-image: url(http://www.transparenttextures.com/patterns/dark-stripes-light.png);
+
+}
+#site-title {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 60px;
+    margin-top: 25px;
+}
+#site-description {
+    color: #E64848;
+    font-size: 17px;
+    font-weight: bold;
+    font-style: italic;
+}
+.field.field-name-field-image.field-type-image.field-label-hidden > div > div {
+    width: 250px;
+    float: left;
+    margin-right: 30px;
+}
+.submitted {
+    background: #FFDBB8;
+    background-image: url(http://www.transparenttextures.com/patterns/dark-stripes-light.png);
+
+}
+.content-sidebar-wrap #content {
+    background-color: rgba(255, 255, 230, 0.7);
+}
+#logo {
+    width: 150px;
+}
+h2 .title {
+    font-weight: bold;
+}
+#copyright {
+    background: repeating-linear-gradient(#99997A, #4C4C3D 40px);
+}
+
+#block-system-main img {
+    width: 300px;
+}
